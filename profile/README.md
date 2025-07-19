@@ -1,11 +1,15 @@
+<table>
+  <tr>
+    <td style="width: 70%;">
+      <h1>🎓 CampusCodeUNED</h1>
+      <p><strong>CampusCodeUNED</strong> es un repositorio académico organizado para almacenar los <strong>enunciados de trabajos</strong> junto con sus respectivas <strong>soluciones</strong>, desarrollados en el marco de diversos cursos de la <strong>Universidad Estatal a Distancia (UNED)</strong>. Este espacio tiene como propósito funcionar como archivo personal, portafolio de evidencias académicas y referencia para el aprendizaje continuo.</p>
+    </td>
+    <td style="width: 30%;">
+      <img src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Código animado" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Código animado" />
-</p>
-
-# 🎓 CampusCodeUNED
-
-**CampusCodeUNED** es un repositorio académico organizado para almacenar los **enunciados de trabajos** junto con sus respectivas **soluciones**, desarrollados en el marco de diversos cursos de la **Universidad Estatal a Distancia (UNED)**. Este espacio tiene como propósito funcionar como archivo personal, portafolio de evidencias académicas y referencia para el aprendizaje continuo.
 
 ## 📁 Estructura del repositorio
 
@@ -81,3 +85,4 @@ Ejemplo:
 ## ✍️ Autor
 
 Repositorio mantenido por **Antonio** – estudiante UNED  
+
