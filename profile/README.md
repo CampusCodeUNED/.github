@@ -81,8 +81,13 @@ Ejemplo:
     ├── Enunciado.pdf  
     ├── Solucion.py  
     └── README.md  
+---
+    ## 📊 Lenguajes más usados
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-Campos-S&layout=compact&theme=tokyonight)](https://github.com/Francisco-Campos-S/github-readme-stats)
+
 
 ## ✍️ Autor
 
 Repositorio mantenido por **Antonio** – estudiante UNED  
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lagaress&layout=compact&theme=tokyonight)](https://github.com/Lagaress/github-readme-stats)
