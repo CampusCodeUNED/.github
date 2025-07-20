@@ -10,11 +10,11 @@
   </tr>
 </table>
 
-
 ## 📁 Estructura del repositorio
 
 Cada curso dispone de un directorio propio donde se organizan los trabajos por tema o número de entrega, siguiendo una estructura clara y ordenada:
 
+```
 CampusCodeUNED/  
 ├── Curso_Nombre1/  
 │   ├── Trabajo_01/  
@@ -28,6 +28,7 @@ CampusCodeUNED/
 ├── Curso_Nombre2/  
 │   └── ...  
 └── Curso_NombreN/  
+```
 
 ## 🧾 Contenido de cada trabajo
 
@@ -81,14 +82,17 @@ Ejemplo:
     ├── Enunciado.pdf  
     ├── Solucion.py  
     └── README.md  
+
 ---
+
 ## 📊 Lenguajes más usados
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CampusCodeUNED&layout=compact&theme=tokyonight)](https://github.com/CampusCodeUNED)
 
-
+---
 
 ## ✍️ Autor
 
-Repositorio mantenido por **Antonio** – estudiante UNED  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lagaress&layout=compact&theme=tokyonight)](https://github.com/Lagaress/github-readme-stats)
+Repositorio mantenido por **Antonio** – estudiante UNED
+
+
