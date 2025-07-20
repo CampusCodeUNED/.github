@@ -1,0 +1,30 @@
+name: Generar README
+
+on:
+  push:
+    paths:
+      - 'readme-generator/**'
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repositorio
+      uses: actions/checkout@v3
+
+    - name: Instalar Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Instalar dependencias
+      run: |
+        pip install -r readme-generator/requirements.txt
+
+    - name: Generar README.md
+      run: |
+        python readme-generator/generate_readme.py
+      env:
+        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
