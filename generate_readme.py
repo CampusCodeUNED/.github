@@ -1,7 +1,7 @@
 import os
 import openai
 
-openai.api_key = os.getenv("OPENAI_API_KEY")
+openai.api_key = os.getenv("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")
 
 for folder in os.listdir('.'):
     if os.path.isdir(folder) and folder != "readme-generator" and not folder.startswith('.'):
