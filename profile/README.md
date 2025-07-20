@@ -111,12 +111,6 @@ CampusCodeUNED/
 
 ---
 
-## 📊 Lenguajes más usados
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CampusCodeUNED&layout=compact&theme=tokyonight)](https://github.com/CampusCodeUNED)
-
----
-
 ## ✍️ Autor
 
 Repositorio mantenido por **Antonio** – estudiante UNED
