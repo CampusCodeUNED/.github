@@ -15,7 +15,7 @@
 Cada curso dispone de un directorio propio donde se organizan los trabajos por tema o número de entrega, siguiendo una estructura clara y ordenada:
 
 ```
-📦 RepositorioEducativo/
+📦 CampusCodeUNED
 │
 ├── 📁 Diplomado/
 │   ├── 📁 Colaborador_1/
