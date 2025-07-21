@@ -18,17 +18,17 @@ Cada curso dispone de un directorio propio donde se organizan los trabajos por t
 📦 RepositorioEducativo/
 │
 ├── 📁 Diplomado/
-│   ├── 📁 Juan_Perez/
+│   ├── 📁 Colaborador_1/
 │   │   ├── 📁 Introduccion_Informatica/
 │   │   └── 📁 Redes_Basicas/
-│   ├── 📁 Maria_Lopez/
+│   ├── 📁 Colaborador_2/
 │   │   └── 📁 Introduccion_Informatica/
 │   └── README.md
 │
 ├── 📁 Bachillerato/
-│   ├── 📁 Juan_Perez/
+│   ├── 📁 Colaborador_1/
 │   │   └── 📁 Estructuras_Datos/
-│   └── 📁 Maria_Lopez/
+│   └── 📁 Colaborador_2/
 │       └── 📁 Programacion_Avanzada/
 │
 ├── 📁 Libros/
@@ -41,6 +41,7 @@ Cada curso dispone de un directorio propio donde se organizan los trabajos por t
 │   └── 📄 recursos_informatica.xlsx
 │
 └── README.md
+
 
 ```
 
