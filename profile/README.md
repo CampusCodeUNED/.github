@@ -117,7 +117,7 @@ Cada curso dispone de un directorio propio donde se organizan los trabajos por t
 
 <p>
   <img alt="Google Colab" src="https://img.shields.io/badge/-Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black" />&nbsp;
-  <img alt="NetBeans" src="https://img.shields.io/badge/-NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />&nbsp;
+  <<img width="218" height="168" alt="imagen" src="https://github.com/user-attachments/assets/ec316943-2f30-427f-9274-845cc18fceb1" />/>&nbsp;
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />&nbsp;
   <img alt="Android Studio" src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
 </p>
